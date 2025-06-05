@@ -1,5 +1,5 @@
-# Diabetes
-Diabetes Prediction using Decision Tree
+# Diabetes Prediction using Decision Tree
+
 This project focuses on building a machine learning model to predict whether a patient is likely to have diabetes based on diagnostic health parameters. The model uses a Decision Tree Classifier trained on a medical dataset.
 
 
